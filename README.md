@@ -14,3 +14,4 @@ Member: chenyunchao, huqy1869, wddxh
 | 2021/08/31 | Video: Course Introduction               | Book: Chapter 1                        |
 | 2021/09/02 | Video: Bit, Bytes, and Integers          | Book: Chapter 2 first half             |
 | 2021/09/07 | Video: Bit, Bytes, and Integers          | Book: Chapter 2 second half            |
+| 2021/09/09 | Video: Flating Point                     | Book: Chapter 2 floating point section |
