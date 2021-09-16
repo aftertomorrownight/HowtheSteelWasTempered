@@ -16,4 +16,5 @@ Member: chenyunchao, huqy1869, wddxh
 | 2021/09/07 |          | Video: Bit, Bytes, and Integers          | Book: Chapter 2 second half                            |
 | 2021/09/09 |          | Video: Flating Point                     | Book: Chapter 2 floating point section                 |
 | 2021/09/12 |          | Lab: Datalab                             | [Note On Docker Environment](./csapp/lab_resources.md) |
-| 2021/09/14 | wddxh    | Review: Datalab Review                   |                                                        |
+| 2021/09/14 | wddxh    | Review: Datalab Review                   | TODO: wddxh                                            |
+| 2021/09/16 |          | Video: Machine Level Programming 1       | Book: Chapter 3: 3.1 - 3.5                             |
