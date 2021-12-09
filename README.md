@@ -21,3 +21,5 @@ Member: chenyunchao, huqy1869, wddxh
 | 2021/09/23 |             | Video: Machine Level Programming: Control   | Book: Chapter 3: 3.6                                   |
 | 2021/10/13 | chenyunchao | Lecture: GDB Tutorial                       | [beej.us](https://beej.us/guide/bggdb/)                |
 | 2021/10/14 |             | Video: Machine Level Programming: Procedure | Book: Chapter 3: 3.7                                   |
+| 2021/12/01 |             | Lab: Bomb Lab                               |                                                        |
+| 2021/12/07 | huqy1869    | Review: Bomb Lab Review                     |                                                        |
