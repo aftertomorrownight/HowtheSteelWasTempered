@@ -24,3 +24,10 @@ Member: chenyunchao, huqy1869, wddxh
 | 2021/12/01 |             | Lab: Bomb Lab                               |                                                        |
 | 2021/12/07 | huqy1869    | Review: Bomb Lab Review                     |                                                        |
 | 2021/12/09 |             | Lab Kickoff: Attack Lab                     |                                                        |
+| 2021/12/14 |             | Lab: Attack Lab                             |                                                        |
+| 2021/01/18 | Hikaru15    | Lab Review: Attack Lab                      |                                                        |
+| 2021/01/20 |             | Lecture                                     |                                                        |
+| 2021/01/25 |             | Lecture: Memory                             |                                                        |
+| 2021/01/27 |             | Majhong                                     |                                                        |
+| 2021/02/15 |             | Lecture: Cache                              |                                                        |
+| 2021/02/22 |             | Lecture: Linking                            |                                                        |
